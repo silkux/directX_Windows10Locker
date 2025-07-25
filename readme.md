@@ -1,4 +1,4 @@
-# 🛡️ Lock Windows 10 – Block Windows 11 Forever
+# 🛡️ Lock Windows 10 – Block Windows 11 Forever  STAY DUALBOOT
 
 **Block all Windows 11 upgrade attempts on Windows 10. Permanently. Without losing updates, drivers or internet access.**
 
